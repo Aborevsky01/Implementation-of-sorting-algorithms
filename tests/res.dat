@@ -5,6 +5,7 @@ Bubble 1000 9.5614433255728e-05 seconds
 Bubble 10000 0.001034280858658735 seconds
 Bubble 100000 0.012826727626865188 seconds
 Bubble 1000000 0.12564301991504712 seconds
+
 Ordered elements from 0 to N
 Insertion 10 9.253009669909162e-06 seconds
 Insertion 100 2.98152533808184e-05 seconds
@@ -12,7 +13,6 @@ Insertion 1000 0.00014599193034745564 seconds
 Insertion 10000 0.002457188123453655 seconds
 Insertion 100000 0.017996075695787775 seconds
 Insertion 1000000 0.16767892878935164 seconds
-
 
 Fully unordered elements from 0 to N
 Bubble 10 2.1076299803681978e-05 seconds
