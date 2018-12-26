@@ -1,0 +1,83 @@
+Ordered elements from 0 to N
+Bubble 10 5.140560927727311e-06 seconds
+Bubble 100 1.0281121855454626e-05 seconds
+Bubble 1000 9.5614433255728e-05 seconds
+Bubble 10000 0.001034280858658735 seconds
+Bubble 100000 0.012826727626865188 seconds
+Bubble 1000000 0.12564301991504712 seconds
+Ordered elements from 0 to N
+Insertion 10 9.253009669909162e-06 seconds
+Insertion 100 2.98152533808184e-05 seconds
+Insertion 1000 0.00014599193034745564 seconds
+Insertion 10000 0.002457188123453655 seconds
+Insertion 100000 0.017996075695787775 seconds
+Insertion 1000000 0.16767892878935164 seconds
+
+
+Fully unordered elements from 0 to N
+Bubble 10 2.1076299803681978e-05 seconds
+Bubble 100 0.0015282887638133297 seconds
+Bubble 1000 0.16405380522311833 seconds
+Bubble 10000 15.428562395871513 seconds
+
+Fully unordered elements from 0 to N
+Insertion 10 1.4393570597636473e-05 seconds
+Insertion 100 0.0008456222726111427 seconds
+Insertion 1000 0.10616235022333168 seconds
+Insertion 10000 10.801721368232258 seconds
+
+Random elements from 0 to N
+Bubble 10 2.261846808200017e-05 seconds
+Bubble 100 0.0009653973422271893 seconds
+Bubble 1000 0.10660598063139454 seconds
+Bubble 10000 10.582692348223654 seconds
+
+Random elements from 0 to N
+Insertion 10 1.0281121855454623e-05 seconds
+Insertion 100 0.0004348914544857306 seconds
+Insertion 1000 0.05617039520118356 seconds
+Insertion 10000 5.666731780438417 seconds
+
+Random elements from 0 to N
+Bubble 10 1.336545841209101e-05 seconds
+Bubble 100 0.0008882889283112794 seconds
+Bubble 1000 0.10810753847838368 seconds
+Bubble 10000 10.241459343560651 seconds
+
+Random elements from 0 to N
+Insertion 10 9.253009669909162e-06 seconds
+Insertion 100 0.00038657018176509384 seconds
+Insertion 1000 0.05610408196521588 seconds
+Insertion 10000 5.546456534244104 seconds
+
+Random elements from 0 to N
+Insertion 10 9.253009669909162e-06 seconds
+Insertion 100 0.000762859241674733 seconds
+Insertion 1000 0.05456911047219651 seconds
+Insertion 10000 5.457097135525235 seconds
+
+Random elements from 0 to N
+Insertion 10 9.767065762681892e-06 seconds
+Insertion 100 0.00038194367693013926 seconds
+Insertion 1000 0.05639760799418911 seconds
+Insertion 10000 5.427062380192802 seconds
+
+Ordered elements from 0 to N
+Quick 10 4.163854351459123e-05 seconds
+Quick 100 0.00018557424949095598 seconds
+Quick 1000 0.0020140717714835607 seconds
+Quick 10000 0.02035559316161461 seconds
+Quick 100000 0.25828439947710213 seconds
+Quick 1000000 2.900602627957557 seconds
+
+Fully unordered elements from 0 to N
+Quick 10 5.551805801945497e-05 seconds
+Quick 100 0.000246746924530911 seconds
+Quick 1000 0.0023867624387437906 seconds
+Quick 10000 0.02249201028317808 seconds
+
+Random elements from 0 to N
+Quick 10 1.4907626690409204e-05 seconds
+Quick 100 0.00014444976206913745 seconds
+Quick 1000 0.002097862914605516 seconds
+Quick 10000 0.024362146348685276 seconds
