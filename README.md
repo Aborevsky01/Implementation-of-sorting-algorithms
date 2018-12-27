@@ -97,4 +97,4 @@ I have:
  Added timer code to all three algorithms 
 Conducted several testings, measuring the time of algorithms‘ processing in different “mediums”
 Plotted the graphs, built on the data gathered.
-![](https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/ordered.png)
+![](https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/ordered.png =250px)
