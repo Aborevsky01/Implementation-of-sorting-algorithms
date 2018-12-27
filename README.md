@@ -97,4 +97,4 @@ I have:
  Added timer code to all three algorithms 
 Conducted several testings, measuring the time of algorithms‘ processing in different “mediums”
 Plotted the graphs, built on the data gathered.
-
+![](//ordered.png/500x500)
