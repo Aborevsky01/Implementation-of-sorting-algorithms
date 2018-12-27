@@ -9,12 +9,17 @@ Despite the sorting of information occurred a long time ago, it is essential eve
 
 ### Real-life applications
 
-  **Commercial computing.** ..
-                Government organizations, financial institutions, and commercial enterprises organize much of this information by sorting it. ..
-  **Search for information.** ..
-                Keeping data in sorted order makes it possible to efficiently search through it using the classic binary search algorithm. ..
-  **Different characteristics of sorting.** ..
-                User can change the comparison element, in order to change the sequence (e.g from A-Z, price, date, etc.).
+  **Commercial computing.**
+  
+                Government organizations, financial institutions, and commercial enterprises organize much of this information by sorting it. 
+                
+  **Search for information.** 
+  
+                Keeping data in sorted order makes it possible to efficiently search through it using the classic binary search algorithm. 
+                
+  **Different characteristics of sorting.** 
+  
+                User can change the comparison element, in order to change the sequence (e.g from A-Z, price, date, etc.)
 
 ### Most renown Sorting algorithms 
 
