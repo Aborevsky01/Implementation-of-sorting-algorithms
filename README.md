@@ -9,17 +9,17 @@ Despite the sorting of information occurred a long time ago, it is essential eve
 
 ### Real-life applications
 
-      **Commercial computing.** 
+  **Commercial computing.** 
                 Government organizations, financial institutions, and commercial enterprises organize much of this information by sorting it.
-      **Search for information.**
+  **Search for information.**
                 Keeping data in sorted order makes it possible to efficiently search through it using the classic binary search algorithm.
-      **Different characteristics of sorting.** 
+  **Different characteristics of sorting.** 
                 User can change the comparison element, in order to change the sequence (e.g from A-Z, price, date, etc.).
 
 ### Most renown Sorting algorithms 
 
-   #### Bubble sort
-Description 
+   #### 1. Bubble sort
+ ##### Description 
 Algorithms consists of repeating cycles along the sorted massive. Every cycle, elements are consequently compared with each other, and, if the order in the pair is not ascending (and, consequently, false), the change of elements is held. The algorithm makes N-1 repetitions, as long as we can accomplish at least on change. During every inner cycle, next biggest element of the massive is put on its place, and the lowest is moved one position back towards to the beginning of the massive.
  
 Performance
@@ -29,7 +29,8 @@ Implementation
 Mostly perceived as impractical, so the only implementation is in studying course before more complex sorting algorithms.
 Visualization of works
 
-Insertion sort
+   ##### 2. Insertion sort
+ ##### Descriptiom
 Given algorithm consists of consequent cycles along the sorted massive. On each step, one of the massive’s elements is taken, and then its correct position is being found. Lastly, we insert the particular element on its place. After that, we continue to repeat this operation until the entire massive becomes perfectly ascending
 Time of working:
 Worst case: O(n^2) comparisons and O(n^2) swaps
