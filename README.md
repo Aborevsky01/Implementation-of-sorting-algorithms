@@ -101,13 +101,17 @@ Problems of sorting are the fundamental tasks in Computer Science. Therefore, st
 ## Method 
 
 I have:
- Chosen three renown ways of sorting (Bubble, Insertion, Quick)
- Scrutinized the way the work through VisuAlgo
- Created codes for each of the sorting algorithms 
- Tested if they work correctly 
- Written a code to generate a document, in which there would have to be three kinds of sequences (Unordered - the reverse order, descending, Ordered, Random) with different cardinality (10,100,1000,10 000, 100 000)
- Added timer code to all three algorithms 
-Conducted several testings, measuring the time of algorithms‘ processing in different “mediums”
-Plotted the graphs, built on the data gathered.
+1. Chosen three renown ways of sorting (Bubble, Insertion, Quick)
+2. Scrutinized the way they work through VisuAlgo
+3. Created codes for each of the sorting algorithms 
+4. Tested, if they work correctly 
+5. Written a code to generate a document, in which there would have to be three kinds of sequences (Unordered - the reverse order, descending, Ordered, Random) with different cardinality (10,100,1000,10 000, 100 000)
+6. Added timer code to all three algorithms 
+7. Conducted several testings, measuring the time of algorithms‘ processing in different “mediums”
+8. Plotted the graphs, built on the data gathered.
+
+## Results
+ ### GRAPH 1. Ordered massives.
 <img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/ordered.png' style='width: 50%; height: auto;'/>
-![](https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/ordered.png =250x)
+
+   #### Commentary
