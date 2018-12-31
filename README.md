@@ -115,3 +115,5 @@ I have:
 <img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/ordered.png' style='width: 50%; height: auto;'/>
 
    #### Commentary
+<img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/unordered.png' style='width: 50%; height: auto;'/>
+<img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/random.png' style='width: 50%; height: auto;'/>
