@@ -115,8 +115,9 @@ We have:
 <img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/ordered.png' style='width: 50%; height: auto;'/>
 
   #### Commentary
-As it can be seen on the graph, bubble sort proves to be one of the fastest sorting algorithms when it comes to the ordered arrays, whatever the number of items is (however, there is a low increase of the blue line's angle, showing the higher efficiency of this particular method on a "small scale"). Nevetheless, insertion sort, which holds the second place in our sample, also has a significant advantage over quick sort in time. 
-Summarazing the descirption of this particular graph, we need to admit that the aforementioned quadtratic sorting algorithms are not only highly rapid in the case when no raplaces have to be done, but also take a superior position to quick sort.
+As it can be seen on the graph, bubble sort proves to be one of the fastest sorting algorithms when it comes to the ordered arrays, whatever the number of items is (however, there is a low increase of the blue line's angle, showing the higher efficiency of this particular method on a "small scale"). At the same time, insertion sort, which holds the second place in our sample, also has a significant advantage over quick sort in time. 
+
+Summarazing the descirption, we need to admit that the aforementioned quadtratic sorting algorithms are not only highly rapid in the case when no raplaces have to be done, but also take a superior position to quick sort.
 
  ### GRAPH 2. Unordered massives.
 <img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/unordered.png' style='width: 50%; height: auto;'/>
