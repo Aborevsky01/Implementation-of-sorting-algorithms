@@ -115,7 +115,7 @@ We have:
 <img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/ordered.png' style='width: 50%; height: auto;'/>
 
   #### Commentary
-As it can be seen on the graph, bubble sort proves to be one of the fastest sorting algorithms when it comes to the ordered arrays, whatever the number of items is (however, there is a low increase of the blue line's angle, showing the higher efficiency of this particular method on a "small scale"). At the same time, insertion sort, which holds the second place in our sample, also has a significant advantage over quick sort in time. 
+As it can be seen in this coordinate system, bubble sort proves to be one of the fastest sorting algorithms when it comes to the ordered arrays, whatever the number of items is (however, there is a low increase of the blue line's angle, showing the higher efficiency of this particular method on a "small scale"). At the same time, insertion sort, which holds the second place in our sample, also has a significant advantage over quick sort in time. 
 
 Summarazing the descirption, we need to admit that the aforementioned quadtratic sorting algorithms are not only highly rapid in the case when no raplaces have to be done, but also take a superior position to quick sort.
 
@@ -123,9 +123,26 @@ Summarazing the descirption, we need to admit that the aforementioned quadtratic
 <img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/unordered.png' style='width: 50%; height: auto;'/>
 
   #### Commentary
-
+This particular graph presents a totally different results: both quadratic sorting algorithms (insertion and bubble), having an approximately equal results with an insignificant edge of the former over the latter. However, both methods are lagged behind the quick sort, which perfectly deals with any size of unordered array in compare with its "rivals".
 
  ### GRAPH 3. Random massives.
 <img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/random.png' style='width: 50%; height: auto;'/>
 
   #### Commentary
+Last graph in our research provides a great explanation of why quick sort is mych more popular than insertion and bubble sorting algorithms together. Quadratic sorts' lines form almost a right angle with the x-axis, which means horrible time results when working with large arrays of random elements. On the contrary, quick sort perfoms excellent results without any changes in compare with the previous graph.
+
+## Inference
+1. Bubble sort and Insertion sort always have relatively same results, which confirms the properties of both graphs listed in the Introduction. 
+2. Quadratic functions have terrible results when it comes to time, except to the two cases: a) insignificant quantity of items within the array b) ordered array.
+3. Despite being the worst algorithm in one out of the three cases, quick sort always completes the task for approximately the same amount of time no matter what type of array.
+
+***
+### Continue Exploring
+
+Of course, my study did not sum up the entire topic, and much more can be attemted:
+1. Add other various types of sorting algorithms and conduct the same research over them.
+2. Increase the number of algorithms' charachteristics checked.
+3. Work with different realizations of the same methods.
+
+I am highly intrested in proceeding my research, as it is not only expands my knowledge in this particular area of study, but also improves my skills of programming. I hope this work was useful for you! If you found any mistakes/errors/inconsistents, feel free to contact me.
+The entire exploration was done under the supervision of Maxim Suvorovtsev.
