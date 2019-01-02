@@ -122,5 +122,10 @@ Summarazing the descirption, we need to admit that the aforementioned quadtratic
  ### GRAPH 2. Unordered massives.
 <img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/unordered.png' style='width: 50%; height: auto;'/>
 
+  #### Commentary
+
+
  ### GRAPH 3. Random massives.
 <img src='https://github.com/Aborevsky01/Implementation-of-sorting-algorithms/blob/master/random.png' style='width: 50%; height: auto;'/>
+
+  #### Commentary
