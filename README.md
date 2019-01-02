@@ -21,7 +21,7 @@ Despite the sorting of information occurred a long time ago, it is essential eve
   
   User can change the comparison element, in order to change the sequence (e.g from A-Z, price, date, etc.)
 
-### Most renown Sorting algorithms 
+### The most renown Sorting algorithms 
 ***
    #### 1. Bubble sort
  ##### Description 
